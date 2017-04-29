@@ -1,24 +1,5 @@
-# README
+# MUSE - dribble inspiration
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### From Mackenzie Child 12 Web Apps in 12 Weeks Challange
+<https://www.youtube.com/watch?v=70Pu_28yvdI&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=12>
+I am following this tutorial to learn more about Rails.
